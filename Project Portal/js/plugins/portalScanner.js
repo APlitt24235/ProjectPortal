@@ -62,7 +62,7 @@ Game_Interpreter.prototype.pluginCommand = function (command, args) {
             console.log($gameVariables.value(1));
         }
 
-
+//Adding a comment to make a new PR
     }
     if (command === "fishing") {
 
